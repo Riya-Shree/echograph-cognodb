@@ -2,6 +2,14 @@
 
 EchoGraph is a full-stack web application backed by **CognoDB**, a managed graph database. It allows users to discover new music based on the real-time listening habits of their social network, rather than relying on generic, global algorithms.
 
+## 🚀 Live Demo
+
+👉 **[Open EchoGraph Live Demo](https://echograph-cognodb.vercel.app/)**
+
+## 🎥 Demo Video
+
+[Watch the EchoGraph Demo](https://drive.google.com/file/d/1bepwGY4FdAdZuQgfULOO_gyFSl4QuF4m/view?usp=sharing)
+
 ![UI](image.png)
 
 ---
